@@ -7,7 +7,7 @@ namespace LittleCoffeeShop.Droid
     [Activity(
         Label = "LittleCoffeeShop.Droid"
         , MainLauncher = true
-        , Icon = "@drawable/icon"
+        , Icon = "@drawable/start_icon"
         , Theme = "@style/Theme.Splash"
         , NoHistory = true
         , ScreenOrientation = ScreenOrientation.Portrait)]

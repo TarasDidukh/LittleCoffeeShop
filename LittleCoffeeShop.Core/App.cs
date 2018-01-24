@@ -1,8 +1,11 @@
+using LittleCoffeeShop.Core.Configuration.Startup;
+using MvvmCross.Core.ViewModels;
+using MvvmCross.Platform;
 using MvvmCross.Platform.IoC;
 
 namespace LittleCoffeeShop.Core
 {
-    public class App : MvvmCross.Core.ViewModels.MvxApplication
+    public class App : MvxApplication
     {
         public override void Initialize()
         {
@@ -11,7 +14,9 @@ namespace LittleCoffeeShop.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterAppStart<ViewModels.MainViewModel>();
+            Mvx.ConstructAndRegisterSingleton<IMvxAppStart, MvxAppExtendedStart>();
+            var appStart = Mvx.Resolve<IMvxAppStart>();
+            RegisterAppStart(appStart);
         }
     }
 }

@@ -31,6 +31,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
     <Compile Include="App.cs" />
+    <Compile Include="ViewModels\Base\BaseApplicationMvxViewModel.cs" />
+    <Compile Include="ViewModels\Interfaces\IBaseApplicationMvxViewModel.cs" />
+    <Compile Include="Configuration\Startup\MvxAppExtendedStart.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MvvmCross.Platform">
@@ -48,6 +51,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ViewModels\Base\" />
+    <Folder Include="ViewModels\Interfaces\" />
+    <Folder Include="Configuration\" />
+    <Folder Include="Configuration\Startup\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
 </Project>
