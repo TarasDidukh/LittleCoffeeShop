@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleCoffeeShop.Core", "LittleCoffeeShop.Core\LittleCoffeeShop.Core.csproj", "{E21C6B50-3CEA-4192-AE57-9F4242CC5C0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleCoffeeShop.Droid", "LittleCoffeeShop.Droid\LittleCoffeeShop.Droid.csproj", "{12869C10-4CB4-46F2-827A-238825F2CBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E21C6B50-3CEA-4192-AE57-9F4242CC5C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21C6B50-3CEA-4192-AE57-9F4242CC5C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21C6B50-3CEA-4192-AE57-9F4242CC5C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21C6B50-3CEA-4192-AE57-9F4242CC5C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12869C10-4CB4-46F2-827A-238825F2CBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12869C10-4CB4-46F2-827A-238825F2CBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12869C10-4CB4-46F2-827A-238825F2CBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12869C10-4CB4-46F2-827A-238825F2CBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
