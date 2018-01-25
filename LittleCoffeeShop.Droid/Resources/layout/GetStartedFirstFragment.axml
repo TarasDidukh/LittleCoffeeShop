@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/get_started_first_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/get_started_first_bg_transparent"
+        android:weightSum="100">
+        <LinearLayout
+            android:layout_weight="27.8"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="@dimen/logo_padding"
+            android:background="@drawable/logo_border">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/little"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="24sp"
+                android:textColor="@color/logo_text_color" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/coffee_shoop"
+                android:gravity="center"
+                android:textSize="24sp"
+                android:textColor="@color/logo_text_color" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="38.5"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/description_side_space"
+            android:paddingRight="@dimen/description_side_space"
+            android:text="@string/coffee_shoop_description"
+            android:lineSpacingExtra="@dimen/description_line_space"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:textColor="@color/logo_text_color" />
+        <LinearLayout
+            android:layout_weight="15.8"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+        <TextView
+            android:layout_width="@dimen/get_started_width"
+            android:layout_height="@dimen/get_started_height"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/shape_button_get_started"
+            android:text="@string/get_started"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:textColor="@color/logo_text_color" />
+    </LinearLayout>
+</RelativeLayout>

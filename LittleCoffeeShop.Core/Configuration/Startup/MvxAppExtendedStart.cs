@@ -1,5 +1,6 @@
 ﻿using System;
 using LittleCoffeeShop.Core.ViewModels;
+using LittleCoffeeShop.Core.ViewModels.GettingStarted;
 using MvvmCross.Core.Navigation;
 using MvvmCross.Core.ViewModels;
 
@@ -16,7 +17,7 @@ namespace LittleCoffeeShop.Core.Configuration.Startup
 
         public void Start(object hint = null)
         {
-            _navigationService.Navigate<MainViewModel>();
+            _navigationService.Navigate<GetStartedViewModel>();
         }
     }
 }

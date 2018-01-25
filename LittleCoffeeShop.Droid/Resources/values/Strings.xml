@@ -2,4 +2,9 @@
 <resources>
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">LittleCoffeeShop</string>
+    <string name="little">LITTLE</string>
+    <string name="coffee_shoop">COFFEE\nSHOP</string>
+    <string name="coffee_shoop_description">The Little Coffee Shop serves specialty coffee, fancy grilled cheese sandwiches, scratch cooking, craft ales, and cider.</string>
+    <string name="get_started">Get Started!</string>
+    <string name="discover">DISCOVER</string>
 </resources>

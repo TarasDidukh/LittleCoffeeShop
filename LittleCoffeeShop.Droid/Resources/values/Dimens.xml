@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <dimen name="logo_padding">20dp</dimen>
+    <dimen name="description_side_space">50dp</dimen>
+    <dimen name="third_description_side_space">20dp</dimen>
+    <dimen name="description_line_space">12dp</dimen>
+    <dimen name="get_started_width">178dp</dimen>
+    <dimen name="get_started_height">44dp</dimen>
+    <dimen name="get_started_third_side">27dp</dimen>
+    <dimen name="get_started_third_top">20dp</dimen>
+    <dimen name="get_started_third_bottom">45dp</dimen>
+ </resources>
