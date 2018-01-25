@@ -3081,44 +3081,44 @@ namespace LittleCoffeeShop.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0a0058
-			public const int abc_background_cache_hint_selector_material_dark = 2131361880;
-			
-			// aapt resource value: 0x7f0a0059
-			public const int abc_background_cache_hint_selector_material_light = 2131361881;
-			
 			// aapt resource value: 0x7f0a005a
-			public const int abc_btn_colored_borderless_text_material = 2131361882;
+			public const int abc_background_cache_hint_selector_material_dark = 2131361882;
 			
 			// aapt resource value: 0x7f0a005b
-			public const int abc_btn_colored_text_material = 2131361883;
+			public const int abc_background_cache_hint_selector_material_light = 2131361883;
 			
 			// aapt resource value: 0x7f0a005c
-			public const int abc_color_highlight_material = 2131361884;
+			public const int abc_btn_colored_borderless_text_material = 2131361884;
 			
 			// aapt resource value: 0x7f0a005d
-			public const int abc_hint_foreground_material_dark = 2131361885;
+			public const int abc_btn_colored_text_material = 2131361885;
 			
 			// aapt resource value: 0x7f0a005e
-			public const int abc_hint_foreground_material_light = 2131361886;
+			public const int abc_color_highlight_material = 2131361886;
+			
+			// aapt resource value: 0x7f0a005f
+			public const int abc_hint_foreground_material_dark = 2131361887;
+			
+			// aapt resource value: 0x7f0a0060
+			public const int abc_hint_foreground_material_light = 2131361888;
 			
 			// aapt resource value: 0x7f0a0004
 			public const int abc_input_method_navigation_guard = 2131361796;
 			
-			// aapt resource value: 0x7f0a005f
-			public const int abc_primary_text_disable_only_material_dark = 2131361887;
-			
-			// aapt resource value: 0x7f0a0060
-			public const int abc_primary_text_disable_only_material_light = 2131361888;
-			
 			// aapt resource value: 0x7f0a0061
-			public const int abc_primary_text_material_dark = 2131361889;
+			public const int abc_primary_text_disable_only_material_dark = 2131361889;
 			
 			// aapt resource value: 0x7f0a0062
-			public const int abc_primary_text_material_light = 2131361890;
+			public const int abc_primary_text_disable_only_material_light = 2131361890;
 			
 			// aapt resource value: 0x7f0a0063
-			public const int abc_search_url_text = 2131361891;
+			public const int abc_primary_text_material_dark = 2131361891;
+			
+			// aapt resource value: 0x7f0a0064
+			public const int abc_primary_text_material_light = 2131361892;
+			
+			// aapt resource value: 0x7f0a0065
+			public const int abc_search_url_text = 2131361893;
 			
 			// aapt resource value: 0x7f0a0005
 			public const int abc_search_url_text_normal = 2131361797;
@@ -3129,29 +3129,29 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f0a0007
 			public const int abc_search_url_text_selected = 2131361799;
 			
-			// aapt resource value: 0x7f0a0064
-			public const int abc_secondary_text_material_dark = 2131361892;
-			
-			// aapt resource value: 0x7f0a0065
-			public const int abc_secondary_text_material_light = 2131361893;
-			
 			// aapt resource value: 0x7f0a0066
-			public const int abc_tint_btn_checkable = 2131361894;
+			public const int abc_secondary_text_material_dark = 2131361894;
 			
 			// aapt resource value: 0x7f0a0067
-			public const int abc_tint_default = 2131361895;
+			public const int abc_secondary_text_material_light = 2131361895;
 			
 			// aapt resource value: 0x7f0a0068
-			public const int abc_tint_edittext = 2131361896;
+			public const int abc_tint_btn_checkable = 2131361896;
 			
 			// aapt resource value: 0x7f0a0069
-			public const int abc_tint_seek_thumb = 2131361897;
+			public const int abc_tint_default = 2131361897;
 			
 			// aapt resource value: 0x7f0a006a
-			public const int abc_tint_spinner = 2131361898;
+			public const int abc_tint_edittext = 2131361898;
 			
 			// aapt resource value: 0x7f0a006b
-			public const int abc_tint_switch_track = 2131361899;
+			public const int abc_tint_seek_thumb = 2131361899;
+			
+			// aapt resource value: 0x7f0a006c
+			public const int abc_tint_spinner = 2131361900;
+			
+			// aapt resource value: 0x7f0a006d
+			public const int abc_tint_switch_track = 2131361901;
 			
 			// aapt resource value: 0x7f0a0008
 			public const int accent_material_dark = 2131361800;
@@ -3165,8 +3165,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f0a000b
 			public const int background_floating_material_light = 2131361803;
 			
-			// aapt resource value: 0x7f0a0056
-			public const int background_gray = 2131361878;
+			// aapt resource value: 0x7f0a0058
+			public const int background_gray = 2131361880;
 			
 			// aapt resource value: 0x7f0a000c
 			public const int background_material_dark = 2131361804;
@@ -3228,8 +3228,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f0a0040
 			public const int design_bottom_navigation_shadow_color = 2131361856;
 			
-			// aapt resource value: 0x7f0a006c
-			public const int design_error = 2131361900;
+			// aapt resource value: 0x7f0a006e
+			public const int design_error = 2131361902;
 			
 			// aapt resource value: 0x7f0a0041
 			public const int design_fab_shadow_end_color = 2131361857;
@@ -3255,8 +3255,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f0a0048
 			public const int design_snackbar_background_color = 2131361864;
 			
-			// aapt resource value: 0x7f0a006d
-			public const int design_tint_password_toggle = 2131361901;
+			// aapt resource value: 0x7f0a006f
+			public const int design_tint_password_toggle = 2131361903;
 			
 			// aapt resource value: 0x7f0a0016
 			public const int dim_foreground_disabled_material_dark = 2131361814;
@@ -3282,8 +3282,11 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f0a0052
 			public const int get_started_first_bg_transparent = 2131361874;
 			
-			// aapt resource value: 0x7f0a0057
-			public const int green = 2131361879;
+			// aapt resource value: 0x7f0a0056
+			public const int gray_tint = 2131361878;
+			
+			// aapt resource value: 0x7f0a0059
+			public const int green = 2131361881;
 			
 			// aapt resource value: 0x7f0a001d
 			public const int highlighted_text_material_dark = 2131361821;
@@ -3396,11 +3399,11 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f0a003a
 			public const int switch_thumb_disabled_material_light = 2131361850;
 			
-			// aapt resource value: 0x7f0a006e
-			public const int switch_thumb_material_dark = 2131361902;
+			// aapt resource value: 0x7f0a0070
+			public const int switch_thumb_material_dark = 2131361904;
 			
-			// aapt resource value: 0x7f0a006f
-			public const int switch_thumb_material_light = 2131361903;
+			// aapt resource value: 0x7f0a0071
+			public const int switch_thumb_material_light = 2131361905;
 			
 			// aapt resource value: 0x7f0a003b
 			public const int switch_thumb_normal_material_dark = 2131361851;
@@ -3410,6 +3413,9 @@ namespace LittleCoffeeShop.Droid
 			
 			// aapt resource value: 0x7f0a0055
 			public const int text_gray = 2131361877;
+			
+			// aapt resource value: 0x7f0a0057
+			public const int text_hint = 2131361879;
 			
 			// aapt resource value: 0x7f0a003d
 			public const int tooltip_background_dark = 2131361853;
@@ -3660,6 +3666,9 @@ namespace LittleCoffeeShop.Droid
 			
 			// aapt resource value: 0x7f070008
 			public const int cardview_default_radius = 2131165192;
+			
+			// aapt resource value: 0x7f0700a7
+			public const int check_our_bottom_space = 2131165351;
 			
 			// aapt resource value: 0x7f07008e
 			public const int compat_button_inset_horizontal_material = 2131165326;
@@ -4227,76 +4236,82 @@ namespace LittleCoffeeShop.Droid
 			public const int get_started_first_bg = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int ic_menu = 2130837598;
+			public const int ic_close = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int logo_border = 2130837599;
+			public const int ic_menu = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int logo_border_gray = 2130837600;
+			public const int ic_search = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int navigation_empty_icon = 2130837601;
+			public const int logo_border = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int notification_action_background = 2130837602;
+			public const int logo_border_gray = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int notification_bg = 2130837603;
+			public const int navigation_empty_icon = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int notification_bg_low = 2130837604;
+			public const int notification_action_background = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int notification_bg_low_normal = 2130837605;
+			public const int notification_bg = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int notification_bg_low_pressed = 2130837606;
+			public const int notification_bg_low = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int notification_bg_normal = 2130837607;
+			public const int notification_bg_low_normal = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int notification_bg_normal_pressed = 2130837608;
+			public const int notification_bg_low_pressed = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int notification_icon_background = 2130837609;
-			
-			// aapt resource value: 0x7f020074
-			public const int notification_template_icon_bg = 2130837620;
-			
-			// aapt resource value: 0x7f020075
-			public const int notification_template_icon_low_bg = 2130837621;
+			public const int notification_bg_normal = 2130837609;
 			
 			// aapt resource value: 0x7f02006a
-			public const int notification_tile_bg = 2130837610;
+			public const int notification_bg_normal_pressed = 2130837610;
 			
 			// aapt resource value: 0x7f02006b
-			public const int notify_panel_notification_icon_bg = 2130837611;
+			public const int notification_icon_background = 2130837611;
+			
+			// aapt resource value: 0x7f020076
+			public const int notification_template_icon_bg = 2130837622;
+			
+			// aapt resource value: 0x7f020077
+			public const int notification_template_icon_low_bg = 2130837623;
 			
 			// aapt resource value: 0x7f02006c
-			public const int selected_dot = 2130837612;
+			public const int notification_tile_bg = 2130837612;
 			
 			// aapt resource value: 0x7f02006d
-			public const int shape_button_get_started = 2130837613;
+			public const int notify_panel_notification_icon_bg = 2130837613;
 			
 			// aapt resource value: 0x7f02006e
-			public const int shape_button_get_started_green = 2130837614;
+			public const int selected_dot = 2130837614;
 			
 			// aapt resource value: 0x7f02006f
-			public const int shape_button_get_started_green_border = 2130837615;
+			public const int shape_button_get_started = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int SplashScreen = 2130837616;
+			public const int shape_button_get_started_green = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int start_icon = 2130837617;
+			public const int shape_button_get_started_green_border = 2130837617;
 			
 			// aapt resource value: 0x7f020072
-			public const int tooltip_frame_dark = 2130837618;
+			public const int SplashScreen = 2130837618;
 			
 			// aapt resource value: 0x7f020073
-			public const int tooltip_frame_light = 2130837619;
+			public const int start_icon = 2130837619;
+			
+			// aapt resource value: 0x7f020074
+			public const int tooltip_frame_dark = 2130837620;
+			
+			// aapt resource value: 0x7f020075
+			public const int tooltip_frame_light = 2130837621;
 			
 			static Drawable()
 			{
@@ -4335,8 +4350,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f080038
 			public const int SYM = 2131230776;
 			
-			// aapt resource value: 0x7f08009f
-			public const int action0 = 2131230879;
+			// aapt resource value: 0x7f0800a2
+			public const int action0 = 2131230882;
 			
 			// aapt resource value: 0x7f08007d
 			public const int action_bar = 2131230845;
@@ -4359,17 +4374,17 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f08005b
 			public const int action_bar_title = 2131230811;
 			
-			// aapt resource value: 0x7f08009c
-			public const int action_container = 2131230876;
+			// aapt resource value: 0x7f08009f
+			public const int action_container = 2131230879;
 			
 			// aapt resource value: 0x7f08007e
 			public const int action_context_bar = 2131230846;
 			
-			// aapt resource value: 0x7f0800a3
-			public const int action_divider = 2131230883;
+			// aapt resource value: 0x7f0800a6
+			public const int action_divider = 2131230886;
 			
-			// aapt resource value: 0x7f08009d
-			public const int action_image = 2131230877;
+			// aapt resource value: 0x7f0800a0
+			public const int action_image = 2131230880;
 			
 			// aapt resource value: 0x7f080003
 			public const int action_menu_divider = 2131230723;
@@ -4386,11 +4401,11 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f08005d
 			public const int action_mode_close_button = 2131230813;
 			
-			// aapt resource value: 0x7f08009e
-			public const int action_text = 2131230878;
+			// aapt resource value: 0x7f0800a1
+			public const int action_text = 2131230881;
 			
-			// aapt resource value: 0x7f0800ac
-			public const int actions = 2131230892;
+			// aapt resource value: 0x7f0800af
+			public const int actions = 2131230895;
 			
 			// aapt resource value: 0x7f08005e
 			public const int activity_chooser_view_content = 2131230814;
@@ -4425,8 +4440,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f080064
 			public const int buttonPanel = 2131230820;
 			
-			// aapt resource value: 0x7f0800a0
-			public const int cancel_action = 2131230880;
+			// aapt resource value: 0x7f0800a3
+			public const int cancel_action = 2131230883;
 			
 			// aapt resource value: 0x7f080046
 			public const int center = 2131230790;
@@ -4437,11 +4452,14 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f080048
 			public const int center_vertical = 2131230792;
 			
+			// aapt resource value: 0x7f08009c
+			public const int check_our = 2131230876;
+			
 			// aapt resource value: 0x7f080074
 			public const int checkbox = 2131230836;
 			
-			// aapt resource value: 0x7f0800a8
-			public const int chronometer = 2131230888;
+			// aapt resource value: 0x7f0800ab
+			public const int chronometer = 2131230891;
 			
 			// aapt resource value: 0x7f08004f
 			public const int clip_horizontal = 2131230799;
@@ -4500,8 +4518,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f080031
 			public const int end = 2131230769;
 			
-			// aapt resource value: 0x7f0800ae
-			public const int end_padder = 2131230894;
+			// aapt resource value: 0x7f0800b1
+			public const int end_padder = 2131230897;
 			
 			// aapt resource value: 0x7f080040
 			public const int enterAlways = 2131230784;
@@ -4545,8 +4563,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f080063
 			public const int icon = 2131230819;
 			
-			// aapt resource value: 0x7f0800ad
-			public const int icon_group = 2131230893;
+			// aapt resource value: 0x7f0800b0
+			public const int icon_group = 2131230896;
 			
 			// aapt resource value: 0x7f08003b
 			public const int ifRoom = 2131230779;
@@ -4554,8 +4572,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f080060
 			public const int image = 2131230816;
 			
-			// aapt resource value: 0x7f0800a9
-			public const int info = 2131230889;
+			// aapt resource value: 0x7f0800ac
+			public const int info = 2131230892;
 			
 			// aapt resource value: 0x7f08005a
 			public const int italic = 2131230810;
@@ -4581,14 +4599,14 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f080062
 			public const int list_item = 2131230818;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int masked = 2131230897;
+			// aapt resource value: 0x7f0800b4
+			public const int masked = 2131230900;
 			
-			// aapt resource value: 0x7f0800a2
-			public const int media_actions = 2131230882;
+			// aapt resource value: 0x7f0800a5
+			public const int media_actions = 2131230885;
 			
-			// aapt resource value: 0x7f0800af
-			public const int message = 2131230895;
+			// aapt resource value: 0x7f0800b2
+			public const int message = 2131230898;
 			
 			// aapt resource value: 0x7f080032
 			public const int middle = 2131230770;
@@ -4611,14 +4629,14 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f08001f
 			public const int normal = 2131230751;
 			
-			// aapt resource value: 0x7f0800ab
-			public const int notification_background = 2131230891;
+			// aapt resource value: 0x7f0800ae
+			public const int notification_background = 2131230894;
 			
-			// aapt resource value: 0x7f0800a5
-			public const int notification_main_column = 2131230885;
+			// aapt resource value: 0x7f0800a8
+			public const int notification_main_column = 2131230888;
 			
-			// aapt resource value: 0x7f0800a4
-			public const int notification_main_column_container = 2131230884;
+			// aapt resource value: 0x7f0800a7
+			public const int notification_main_column_container = 2131230887;
 			
 			// aapt resource value: 0x7f08004d
 			public const int parallax = 2131230797;
@@ -4644,11 +4662,11 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f08004b
 			public const int right = 2131230795;
 			
-			// aapt resource value: 0x7f0800aa
-			public const int right_icon = 2131230890;
+			// aapt resource value: 0x7f0800ad
+			public const int right_icon = 2131230893;
 			
-			// aapt resource value: 0x7f0800a6
-			public const int right_side = 2131230886;
+			// aapt resource value: 0x7f0800a9
+			public const int right_side = 2131230889;
 			
 			// aapt resource value: 0x7f08000c
 			public const int save_image_matrix = 2131230732;
@@ -4676,6 +4694,9 @@ namespace LittleCoffeeShop.Droid
 			
 			// aapt resource value: 0x7f080056
 			public const int scrollable = 2131230806;
+			
+			// aapt resource value: 0x7f08009e
+			public const int search = 2131230878;
 			
 			// aapt resource value: 0x7f080081
 			public const int search_badge = 2131230849;
@@ -4752,8 +4773,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f08004c
 			public const int start = 2131230796;
 			
-			// aapt resource value: 0x7f0800a1
-			public const int status_bar_latest_event_content = 2131230881;
+			// aapt resource value: 0x7f0800a4
+			public const int status_bar_latest_event_content = 2131230884;
 			
 			// aapt resource value: 0x7f080077
 			public const int submenuarrow = 2131230839;
@@ -4785,8 +4806,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f080015
 			public const int textinput_error = 2131230741;
 			
-			// aapt resource value: 0x7f0800a7
-			public const int time = 2131230887;
+			// aapt resource value: 0x7f0800aa
+			public const int time = 2131230890;
 			
 			// aapt resource value: 0x7f08001b
 			public const int title = 2131230747;
@@ -4796,6 +4817,9 @@ namespace LittleCoffeeShop.Droid
 			
 			// aapt resource value: 0x7f080070
 			public const int title_template = 2131230832;
+			
+			// aapt resource value: 0x7f08009d
+			public const int toolbar = 2131230877;
 			
 			// aapt resource value: 0x7f08003f
 			public const int top = 2131230783;
@@ -4836,8 +4860,8 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f08009a
 			public const int viewpager = 2131230874;
 			
-			// aapt resource value: 0x7f0800b0
-			public const int visible = 2131230896;
+			// aapt resource value: 0x7f0800b3
+			public const int visible = 2131230899;
 			
 			// aapt resource value: 0x7f08003d
 			public const int withText = 2131230781;
@@ -5220,6 +5244,9 @@ namespace LittleCoffeeShop.Droid
 			// aapt resource value: 0x7f0b0023
 			public const int character_counter_pattern = 2131427363;
 			
+			// aapt resource value: 0x7f0b0031
+			public const int check_our = 2131427377;
+			
 			// aapt resource value: 0x7f0b002c
 			public const int coffee_shoop = 2131427372;
 			
@@ -5252,6 +5279,9 @@ namespace LittleCoffeeShop.Droid
 			
 			// aapt resource value: 0x7f0b0028
 			public const int path_password_strike_through = 2131427368;
+			
+			// aapt resource value: 0x7f0b0030
+			public const int search_hint = 2131427376;
 			
 			// aapt resource value: 0x7f0b0013
 			public const int search_menu_title = 2131427347;
@@ -5793,6 +5823,9 @@ namespace LittleCoffeeShop.Droid
 			
 			// aapt resource value: 0x7f090003
 			public const int CardView_Light = 2131296259;
+			
+			// aapt resource value: 0x7f090192
+			public const int CustomActionBar = 2131296658;
 			
 			// aapt resource value: 0x7f09018f
 			public const int Main_Theme = 2131296655;

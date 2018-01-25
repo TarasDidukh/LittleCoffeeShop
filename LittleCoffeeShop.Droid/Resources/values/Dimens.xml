@@ -9,4 +9,5 @@
     <dimen name="get_started_third_side">27dp</dimen>
     <dimen name="get_started_third_top">20dp</dimen>
     <dimen name="get_started_third_bottom">45dp</dimen>
+    <dimen name="check_our_bottom_space">32dp</dimen>
  </resources>

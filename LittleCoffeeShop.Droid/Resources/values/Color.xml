@@ -11,6 +11,8 @@
   <color name="logo_text_color">#FFFFFF</color>
   <color name="logo_border_gray">#c0c6d1</color>
   <color name="text_gray">#c0c6d1</color>
+  <color name="gray_tint">#d7dae0</color>
+  <color name="text_hint">#cac7c7</color>
   <color name="background_gray">#f3f4f4</color>
   <color name="green">#0d9f67</color>
 

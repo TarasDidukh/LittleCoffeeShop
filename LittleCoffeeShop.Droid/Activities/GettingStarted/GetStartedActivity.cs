@@ -21,6 +21,7 @@ using MvvmCross.Droid.Support.V4;
 namespace LittleCoffeeShop.Droid.Activities.GettingStarted
 {
     [Activity(ScreenOrientation = ScreenOrientation.Portrait,
+              NoHistory = true,
               Theme = "@style/Main.Theme")]
     [Register("com.xamarin.activities.GetStartedActivity")]
     public class GetStartedActivity : BaseApplicationMvxActivity<GetStartedViewModel>

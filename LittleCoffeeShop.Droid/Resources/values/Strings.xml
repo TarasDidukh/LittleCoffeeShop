@@ -7,4 +7,6 @@
     <string name="coffee_shoop_description">The Little Coffee Shop serves specialty coffee, fancy grilled cheese sandwiches, scratch cooking, craft ales, and cider.</string>
     <string name="get_started">Get Started!</string>
     <string name="discover">DISCOVER</string>
+    <string name="search_hint">What would you like to try today?</string>
+    <string name="check_our">Check our popular drinks</string>
 </resources>

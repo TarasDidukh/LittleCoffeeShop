@@ -5,7 +5,7 @@ using MvvmCross.Droid.Views;
 namespace LittleCoffeeShop.Droid
 {
     [Activity(
-        Label = "LittleCoffeeShop.Droid"
+        Label = "LittleCoffeeShop"
         , MainLauncher = true
         , Icon = "@drawable/start_icon"
         , Theme = "@style/Theme.Splash"
